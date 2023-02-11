@@ -12,27 +12,27 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "ايبي ايدي احصل علية من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "ايبي هاش احصل علية من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "اكتب توكن بوتك هنا",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "Fill your user id here. (Must be integer)",
+        "description": "اكتب ايديك هنا. (Must be integer)",
         "value": "",
         "required": true
       },
       "SESSION": {
-        "description": "A pyrogram v2 string session from @StringFatherBot",
+        "description": "جلسة بايروجرام احصل عليها من هنا @UU2xbot",
         "value": "",
         "required": true
       },
