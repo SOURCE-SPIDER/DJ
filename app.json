@@ -12,27 +12,27 @@
     ],
     "env": {
       "API_ID": {
-        "description": "ايبي ايدي احصل علية من هنا https://my.telegram.org",
+        "description": " ادخل ايبي ايدي احصل علية من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "ايبي هاش احصل علية من هنا https://my.telegram.org",
+        "description": " ادخل ايبي هاش احصل علية من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "اكتب توكن بوتك هنا",
+        "description": "ادخـل تـوكـن بـوتـك هـنـا",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "اكتب ايديك هنا. (Must be integer)",
+        "description": "ادخـل ايـديـك هـنـا",
         "value": "",
         "required": true
       },
       "SESSION": {
-        "description": "جلسة بايروجرام احصل عليها من هنا @UU2xbot",
+        "description": "ادخل جلسة البايروجرام احصل عليها من هنا @UU2xbot",
         "value": "",
         "required": true
       },
