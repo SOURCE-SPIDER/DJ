@@ -45,7 +45,7 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ضفني لجروبك ✔️",
+            text="ضفني لجروبك ✅",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -56,9 +56,9 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="𝗼𝘀𝗔𝗺𝗔 𝘃𝗲𝗡𝗼𝗺", url="https://t.me/WWWL5"
+            text="مبرمج السورس", url="https://t.me/WWWL5"
         ),
-        InlineKeyboardButton(text="مطور البوت", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="مالك البوت", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -66,7 +66,7 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="ضفني لجروبك ✔️",
+            text="ضفني لجروبك ✅",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -76,9 +76,9 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="𝗼𝘀𝗔𝗺𝗔 𝘃𝗲𝗡𝗼𝗺", url="https://t.me/WWWL5"
+            text="مبرمج السورس", url="https://t.me/WWWL5"
         ),
-        InlineKeyboardButton(text="مطور البوت", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="مالك البوت", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -92,7 +92,7 @@ helpmenu = [
     ],
     [
         InlineKeyboardButton(text="اوامر المطور", callback_data="fallen_cb sudo"),
-        InlineKeyboardButton(text="مطور البوت", callback_data="fallen_cb owner"),
+        InlineKeyboardButton(text="مالك البوت", callback_data="fallen_cb owner"),
     ],
     [
         InlineKeyboardButton(text="رجوع", callback_data="fallen_home"),
