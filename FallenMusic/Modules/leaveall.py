@@ -40,7 +40,7 @@ async def ass_leaveall(_, message: Message):
         chats.append(int(dialog.chat.id))
     schat = (await app.get_chat(SUNAME)).id
     for i in chats:
-        if i in (-1001774130543, int(schat)):
+        if i in (-1001690426912, int(schat)):
             continue
         try:
             await app2.leave_chat(int(i))
