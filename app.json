@@ -37,12 +37,12 @@
         "required": true
       },
       "SUDO_USERS": {
-        "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
+        "description": "ادخـل ايـدي الـحـسـاب الـمـسـاعـد",
         "value": "",
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "Link of your telegram support group. (Must pe public)",
+        "description": "ادخـل رابـط جـروب الـدعـم",
         "value": "https://t.me/EE_47",
         "required": false
       }
