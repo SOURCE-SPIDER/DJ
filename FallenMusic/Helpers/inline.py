@@ -49,7 +49,7 @@ pm_buttons = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="الاوامر", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="الاوامـر", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="قناة السورس", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="جروب الدعم", url=config.SUPPORT_CHAT),
