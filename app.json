@@ -1,7 +1,7 @@
 {
-    "name": "𝘀𝗼𝗨𝗥𝗰𝗲 𝘃𝗲𝗡𝗼𝗺",
-    "description": "سورس ميوزك فينوم",
-    "logo": "https://telegra.ph/file/08d12aa31c5c41e51f6f2.jpg",
+    "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗨𝗦𝗜𝗖 𝗦𝗘𝗩𝗘𝗡",
+    "description": "اللهم صلي علي سيدنا محمد 🌺",
+    "logo": "https://telegra.ph/file/e1ca90fe34e9640e0248b.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -12,37 +12,37 @@
     ],
     "env": {
       "API_ID": {
-        "description": " ادخل ايبي ايدي احصل علية من هنا https://my.telegram.org",
+        "description": " ضـع ايبي ايدي احصل علية من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": " ادخل ايبي هاش احصل علية من هنا https://my.telegram.org",
+        "description": " ضـع ايبي هاش احصل علية من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "ادخـل تـوكـن بـوتـك هـنـا",
+        "description": "ضـع تـوكـن بـوتـك هـنـا",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "ادخـل ايـديـك هـنـا",
+        "description": "ضـع ايـديـك هـنـا",
         "value": "",
         "required": true
       },
       "SESSION": {
-        "description": "ادخل جلسة البايروجرام احصل عليها من هنا @UU2xbot",
+        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @UU2xbot",
         "value": "",
         "required": true
       },
       "SUDO_USERS": {
-        "description": "ادخـل ايـدي الـحـسـاب الـمـسـاعـد",
+        "description": "ضـع ايـدي الـحـسـاب الـمـسـاعـد",
         "value": "",
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "ادخـل رابـط جـروب الـدعـم",
+        "description": "ضـع رابـط جـروب الـدعـم",
         "value": "https://t.me/EE_47",
         "required": false
       }
