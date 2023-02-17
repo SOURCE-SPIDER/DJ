@@ -58,7 +58,7 @@ async def song(_, message: Message):
             f"ғᴀɪʟᴇᴅ ᴛᴏ ғᴇᴛᴄʜ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴛ-ᴅʟ.\n\n**ʀᴇᴀsᴏɴ :** `{ex}`"
         )
 
-    await m.edit_text("» جاري التحميل انتظر,\n\n بواسطه ‌𝗩𝗘𝗡𝗢𝗠..")
+    await m.edit_text("» جاري التحميل انتظر,\n\n بواسطه ‌𝗦𝗘𝗩𝗘𝗡..")
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
